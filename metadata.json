@@ -1,0 +1,8 @@
+{
+  "name": "Saha Jeddah",
+  "description": "A website to gather what’s on all over jeddah, daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
